@@ -23,4 +23,5 @@ Informatik student at **Hochschule Darmstadt (h_da)**. I like building small too
 |---|---|---|
 | [**Wohinder**](https://github.com/newfreshhorizonx/wohinder) | Apartment search for Darmstadt: collects listings, scores them 0–100 per profile, writes the Anfrage on swipe | Python · FastAPI · SQLite |
 | [**Chess Move Coach**](https://github.com/newfreshhorizonx/Chess-move-coach) | Browser extension that reads the Lichess board and runs Stockfish locally via WebAssembly | JavaScript · Manifest V3 · WASM |
+| [**London & Caro Trainer**](https://github.com/newfreshhorizonx/london-caro-trainer) | Chess opening trainer for the London, Caro-Kann and King's Indian, with Learn and Drill modes ([play it](https://newfreshhorizonx.github.io/london-caro-trainer/)) | JavaScript · HTML/CSS · GitHub Pages |
 | [**Smart File Analyzer**](https://github.com/newfreshhorizonx/smart-file-analyzer) | Command-line tool in modern C++ *(early stage)* | C++20 · CMake |
